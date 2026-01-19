@@ -9,7 +9,7 @@ This is a small Java real-life mini project.
 - real-life modeling
 
 ## Description
-Exam time table is common for all students of BCA II Year,
+Exam time table is common for all students of B.Tech. II Year,
 so it is implemented using a static array at class level.
 
 ## How to Run
