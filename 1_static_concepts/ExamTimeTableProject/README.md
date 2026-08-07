@@ -1,4 +1,4 @@
-# College Exam Time Table Project
+# College Exam Time Table 
 
 This is a small Java real-life mini project.
 
